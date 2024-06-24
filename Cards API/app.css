@@ -1,0 +1,8 @@
+#cards > img {
+    position: absolute
+}
+
+button {
+    padding: 20px;
+    font-size: 2rem;
+}
